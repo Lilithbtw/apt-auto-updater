@@ -9,14 +9,10 @@ Cada vez que se ejecuta:
 
 Este script nació como parte de mi proyecto de **home server**, donde busco mantener el sistema siempre actualizado y minimizar el riesgo de vulnerabilidades sin intervención manual.
 
----
-
 ## Requisitos
 - Distribución basada en **Debian** (Debian 12, Ubuntu 20.04+, etc.)
 - Usuario con permisos de **sudo** o ejecutar desde **root**
 - `apt`, `crontab` y `bash` disponibles en el sistema
-
----
 
 ## Instalación
 
