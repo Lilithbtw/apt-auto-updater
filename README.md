@@ -43,4 +43,4 @@ Y añade la linea
 ```bash
 0 3 * * * /ruta/completa/al/script/autoupdate.sh
 ```
-
+Esto ejecutará el script cada día a las 3:00 AM.
