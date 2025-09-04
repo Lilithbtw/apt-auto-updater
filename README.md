@@ -11,22 +11,14 @@ Este script nació como parte de mi proyecto de **home server**, donde busco man
 
 ---
 
-## ✨ Características
-- ✅ Actualizaciones automáticas del sistema.
-- ✅ Registro de toda la salida en un archivo de log.
-- ✅ Reinicio automático para aplicar cambios críticos.
-- ✅ Ideal para usar con **cron** y olvidarte de las actualizaciones manuales.
-
----
-
-## 📋 Requisitos
+## Requisitos
 - Distribución basada en **Debian** (Debian 12, Ubuntu 20.04+, etc.)
 - Usuario con permisos de **sudo** o ejecutar desde **root**
 - `apt`, `crontab` y `bash` disponibles en el sistema
 
 ---
 
-## ⚙️ Instalación
+## Instalación
 
 Clona el repositorio y dale permisos de ejecución al script:
 
